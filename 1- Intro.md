@@ -1,6 +1,7 @@
 # Introducción gradual al Modelo de Eficiencia Operativa en Transporte Público
 
-En el ámbito del transporte público, la eficiencia operativa es esencial para evaluar su rendimiento y sostenibilidad. Nuestro enfoque desafía la convención al no derivar la eficiencia únicamente de costos operativos y eficiencia comercial (BB/Ventas), evitando que las ineficiencias operativas se trasladen como costos adicionales al usuario en el precio del pasaje.
+En el ámbito del transporte público, la eficiencia operativa es esencial para evaluar su rendimiento y sostenibilidad. Nuestro enfoque desafía la convención al no derivar la eficiencia únicamente de costos operativos y eficiencia comercial \[ \text{Eficiencia comercial} = \frac{\text{Beneficio Bruto}}{\text{Ventas}} \]
+, evitando que las ineficiencias operativas se trasladen como costos adicionales al usuario en el precio del pasaje.
 
 **Cambio Radical Necesario**
 
